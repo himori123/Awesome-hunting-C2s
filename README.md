@@ -5,7 +5,7 @@ This repository houses a valuable compilation of data to identify Commands and C
     <img src="/images/C2.jpeg" width="500" height="300"  >
 </p>
 
-## Este é um repositório que contém dados sobre como identificar Comandos & Controles (C2) a partir de plataformas abertas semi-gratuitas, oferecendo recursos valiosos para aprimorar suas habilidades de detecção e resposta a incidentes.
+## This is a repository that contains data on how to identify Commands & Controls (C2) from semi-free open platforms, offering valuable resources to enhance your incident detection and response skills.
 
 ### Platforms used:
 
